@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Fayez
 #### Frontend Developer
-My name is Fayez Mamdoh a self-taught Web developer, and student in Systems and information management, I have been an enthusiast about web development with less than a year of experience trying to learn new things every day, hope you gonna enjoy this journey with me 😄
+My name is Fayez Mamdoh a self-taught Web developer, I have been an enthusiast about web development with less than a year of experience trying to learn new things every day, hope you gonna enjoy this journey with me 😄
 
 Skills:
 * HTML
