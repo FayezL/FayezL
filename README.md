@@ -1,10 +1,10 @@
-<h3 align="left">
-### Hi there 👋, Fayez here</h3>
+<h2 align="left">
+### Hi there 👋, Fayez here</h2>
 
 ###
 
-<h4 align="left">
-#### Frontend Web Developer</h4>
+<h3 align="left">
+#### Frontend Web Developer</h3>
 
 ###
 
