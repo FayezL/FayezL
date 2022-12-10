@@ -4,7 +4,7 @@
 ###
 
 <h3 align="left">
-#### Frontend Web Developer</h3>
+ Frontend Web Developer</h3>
 
 ###
 
