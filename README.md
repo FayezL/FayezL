@@ -1,14 +1,15 @@
-<h2 align="left">
+<h2 align="center">
  Hi there 👋, Fayez here</h2>
 
 ###
 
-<h3 align="left">
+<h3 align="center">
  Frontend Web Developer</h3>
 
 ###
 
 <h2 align="left">About me</h2>
+
 
 ###
 
