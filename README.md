@@ -1,8 +1,8 @@
-<h3 align="center">Hi there 👋, Fayez here</h3>
+<h2 align="center">Hi there 👋, Fayez here</h2>
 
 ###
 
-<h4 align="center">Frontend Web Developer</h4>
+<h3 align="center">Frontend Web Developer</h3>
 
 ###
 
