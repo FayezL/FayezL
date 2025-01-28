@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">Frontend Web Developer</h3>
+<h3 align="center">Flutter Developer</h3>
 
 ###
 
