@@ -18,7 +18,7 @@
 
 <br clear="both">
 
-<p align="left">My name is Fayez Mamdoh a self-taught Web developer, I have been an enthusiast about web development with less than a year of experience trying to learn new things every day, it's gonna be a long trip and</p>
+<p align="left">My name is Fayez Mamdoh, a self-taught Software developer. I have been an enthusiast about Computer science with more than a year of experience, trying to learn new things every day. It's gonna be a long trip /p>
 
 ###
 
