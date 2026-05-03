@@ -1,54 +1,56 @@
-<h2 align="center">Hi there 👋, Fayez here</h2>
-
-###
-
-<h3 align="center">Flutter Developer</h3>
-
-###
-
-<div align="center">
+## Hi, I'm Fayez Mamdoh
+div align="center">
   <img height="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  />
 </div>
+<div align='center'>
 
-###
 
-<h2 align="left">About me</h2>
+**Backend & Automation Developer · Giza, Egypt · Open to Relocation**
 
-###
+![Python](https://img.shields.io/badge/Python-3B6D11?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-0F6E56?style=flat&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-185FA5?style=flat&logo=postgresql&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-185FA5?style=flat&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-854F0B?style=flat&logo=firebase&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash·Linux-444441?style=flat&logo=gnubash&logoColor=white)
+![FFmpeg](https://img.shields.io/badge/FFmpeg-993C1D?style=flat&logo=ffmpeg&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-2C2C2A?style=flat&logo=nextdotjs&logoColor=white)
 
-<br clear="both">
-
-<p align="left">My name is Fayez Mamdoh, a self-taught Software developer. I have been an enthusiast about Computer science with more than a year of experience, trying to learn new things every day. It's gonna be a long trip /p>
-
-###
-
-<br clear="both">
-
-<div align="left">
-  <img height="200" src="https://cdn.discordapp.com/attachments/565625598412587018/1050540792617381918/04411d819bfed0400b54cfa43d14eb7e.jpg"  />
 </div>
 
-###
+---
 
+I build production systems that replace broken, slow, or manual workflows with something that just works — for real users, not demos. Currently automating media pipelines at **MagicTVBox** and building **PawPet Club**, a Flutter/Firebase social platform for pet owners.
 
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=false&username=FayezL" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false&username=FayezL" height="150" alt="languages graph"  />
+| 7 Deployed Projects | 103 Passing Tests | 200+ Real Users |
+|:---:|:---:|:---:|
+
+## Projects
+
+| Project | Stack | Status |
+|---|---|---|
+| [CTRMS — Trip & Room Management](https://booking-trip-system.vercel.app) | Next.js · Supabase · PostgreSQL | 🟢 Live |
+| [VOD Stream Checker](https://github.com/FayezL/vod-stream-checker) | Python · Streamlit · SQLite | 🟢 Live |
+| [MagicTVBox Automation Dashboard](https://github.com/FayezL/-FFmpeg-Video-Automation-Dashboard) | Python · CustomTkinter · FFmpeg | 🟢 Live |
+| [European Auto Service](https://european-auto-service.vercel.app) | Next.js · Supabase | 🟢 Live |
+| [Saint Verena Church Quiz](https://verena-church-quiz.web.app/) | Flutter · Firebase | 🟢 Live |
+| [PawPet Club](https://pawclubpetv1-b3d1b.web.app/) | Flutter · Firebase · Riverpod | 🟢 Live |
+| [Pristine by Christine](https://pristinebychristine.org) | Flutter · Firebase | 🟢 Live |
+
+---
+
+<div align='center'>
+
+📧 fmamdoh504@gmail.com · [Portfolio](https://fayez-portfolio-rouge.vercel.app) · [LinkedIn](https://linkedin.com/in/fayez-mamdoh)
+
+**Currently learning:** Docker · CI/CD · FastAPI advanced patterns
+
+**Open to:** Remote roles · Relocation (Europe / Gulf)
+
 </div>
 
-###
+**Open to**: Remote roles · Relocation · Backend / Flutter / Automation positions
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/fayez-mamdoh/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="! ๖̶̶̶ζ͜͡Fayez#8914" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-  <a href="fmamdoh504@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
-
-###
+📧 fmamdoh504@gmail.com · [Portfolio](https://fayez-portfolio-rouge.vercel.app) · [LinkedIn](https://linkedin.com/in/fayez-mamdoh)
