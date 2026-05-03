@@ -37,7 +37,7 @@ I build production systems that replace broken, slow, or manual workflows with s
 | [European Auto Service](https://european-auto-service.vercel.app) | Next.js · Supabase | 🟢 Live |
 | [Saint Verena Church Quiz](https://verena-church-quiz.web.app/) | Flutter · Firebase | 🟢 Live |
 | [PawPet Club](https://pawclubpetv1-b3d1b.web.app/) | Flutter · Firebase · Riverpod | 🟢 Live |
-| [Pristine by Christine](https://pristinebychristine.org) | Flutter · Firebase | 🟢 Live |
+| [Pristine by Christine](https://prinstine.web.app/) | Flutter · Firebase | 🟢 Live |
 
 ---
 
