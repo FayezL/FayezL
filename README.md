@@ -52,7 +52,7 @@ Currently automating media pipelines at **MagicTVBox** and building **PawPet Clu
 
 **Currently learning:** Docker · CI/CD · FastAPI advanced patterns
 
-**Open to:** Remote roles · Relocation (Europe / Gulf / Canada)
+**Open to:** Remote roles · Relocation 
 
 ---
 
