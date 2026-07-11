@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="YOUR_BANNER_IMAGE_URL_HERE" width="100%" alt="Fayez Mamdoh Banner"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC" width="100%" alt="Fayez Mamdoh Banner"/>
 </p>
 
 <h1 align="center">Hi, I'm Fayez Mamdoh 👋</h1>
