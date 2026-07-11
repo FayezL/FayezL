@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)" width="100%" alt="Fayez Mamdoh Banner"/>
-</p>
+<div align="center"> <img height="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" /> </div>
 
 <h1 align="center">Hi, I'm Fayez Mamdoh 👋</h1>
 
