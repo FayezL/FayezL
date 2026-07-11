@@ -123,16 +123,17 @@ CareerOS is also my playground for learning production backend engineering using
 
 # 🌟 Featured Projects
 
-| Project | Description | Tech |
-|----------|-------------|------|
-| 🚀 CareerOS *(In Development)* | Full-stack career management platform built with modern backend architecture. | FastAPI • PostgreSQL • Docker • Next.js |
-| 🏨 CTRMS | Trip & Room Management System used by a real church community. | Next.js • PostgreSQL • Supabase |
-| 🎥 VideoForge | Production video automation platform replacing manual FFmpeg workflows. | Python • FFmpeg • CustomTkinter |
-| 📺 VOD Stream Dashboard | Stream monitoring dashboard with analytics and automation. | Python • Streamlit • Plotly |
-| 🚗 European Auto Service | Booking platform for a real automotive business. | Next.js • Supabase |
-| 🧹 Helping Hands | Cleaning company website with booking system. | Next.js • Firebase |
-| 🐾 PawPet Club | Social platform for pet owners. | Flutter • Firebase |
-| ⛪ Saint Verena Quiz | Mobile Bible quiz application. | Flutter • Firebase |
+| Project | Description | Tech | Status |
+|----------|-------------|------|--------|
+| 🚀 **CareerOS** *(Coming Soon)* | A production-ready career management platform I'm currently building. | FastAPI • PostgreSQL • Docker • Next.js | 🚧 In Development |
+| **[CTRMS — Trip & Room Management](https://booking-trip-system.vercel.app)** | Trip & Room Management System used by a real church community. | Next.js • TypeScript • Supabase • PostgreSQL | 🟢 Live |
+| **[VideoForge — FFmpeg Video Automation Dashboard](https://github.com/FayezL/-FFmpeg-Video-Automation-Dashboard)** | Production automation platform replacing manual FFmpeg workflows with a desktop application. | Python • FFmpeg • CustomTkinter | 🟢 Open Source |
+| **[VOD Stream Checker](https://github.com/FayezL/vod-stream-checker)** | Stream monitoring dashboard with analytics and automation. | Python • Streamlit • SQLite • Plotly | 🟢 Open Source |
+| **[Helping Hands — Cleaning Platform](https://helping-hands-55c3a.web.app)** | Cleaning service platform with booking functionality. | Next.js • TypeScript • Firebase • Tailwind | 🟢 Live |
+| **[European Auto Service](https://european-auto-service.vercel.app)** | Booking platform for an automotive service business. | Next.js • Supabase | 🟢 Live |
+| **[Saint Verena Church Quiz](https://verena-church-quiz.web.app/)** | Mobile Bible quiz application. | Flutter • Firebase | 🟢 Live |
+| **[PawPet Club](https://pawclubpetv1-b3d1b.web.app/)** | Social platform for pet owners. | Flutter • Firebase • Riverpod | 🟢 Live |
+| **[Pristine by Christine](https://prinstine.web.app/)** | Business website for a professional cleaning company. | Flutter • Firebase | 🟢 Live |
 
 ---
 
