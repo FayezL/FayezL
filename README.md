@@ -1,63 +1,209 @@
-<div align="center">
-  <img height="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-</div>
+<p align="center">
+  <img src="YOUR_BANNER_IMAGE_URL_HERE" width="100%" alt="Fayez Mamdoh Banner"/>
+</p>
 
-## Hi, I'm Fayez Mamdoh
+<h1 align="center">Hi, I'm Fayez Mamdoh 👋</h1>
 
-<div align="center">
+<h3 align="center">
+Software Engineer
+</h3>
 
-Full Stack Developer · Backend · Mobile · Automation · Open to Relocation
+<p align="center">
+Backend Systems • Automation • Modern Web Applications
+</p>
 
-![Python](https://img.shields.io/badge/Python-3B6D11?style=flat&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-0F6E56?style=flat&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-185FA5?style=flat&logo=postgresql&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-2C2C2A?style=flat&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Tailwind_CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-185FA5?style=flat&logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-854F0B?style=flat&logo=firebase&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash·Linux-444441?style=flat&logo=gnubash&logoColor=white)
-![FFmpeg](https://img.shields.io/badge/FFmpeg-993C1D?style=flat&logo=ffmpeg&logoColor=white)
+<p align="center">
 
-</div>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat&logo=ffmpeg&logoColor=white)
 
----
-
-I build full stack production systems — backend APIs, mobile apps, and automation tools that replace broken, slow, or manual workflows with something that just works. For real users, not demos.
-
-Currently automating media pipelines at **MagicTVBox** and building **PawPet Club**, a Flutter/Firebase social platform for pet owners.
+</p>
 
 ---
 
-| 8 Deployed Projects | 6 Live | 103 Passing Tests | 200+ Real Users |
-|:---:|:---:|:---:|:---:|
+# 👨‍💻 About Me
+
+I'm a **Software Engineer** passionate about building software that solves real-world problems.
+
+Over the past few years I've built production web applications, backend APIs, Flutter applications, and automation systems used by real users and businesses.
+
+I enjoy designing backend systems, automating repetitive workflows, and creating software that is reliable, maintainable, and useful.
+
+Currently I work as a **Software Engineer at MagicTVBox**, where I build automation tools, media processing systems, backend utilities, and internal software.
+
+Outside work I'm continuously improving my engineering skills through real projects while learning Docker, AWS, System Design, and modern backend architecture.
 
 ---
 
-## Projects
+# 🚀 Currently Building
 
-| Project | Stack | Status |
-|---|---|---|
-| [CTRMS — Trip & Room Management](https://booking-trip-system.vercel.app) | Next.js · TypeScript · Supabase · PostgreSQL | 🟢 Live |
-| [Helping Hands — Cleaning Service Platform](https://helping-hands-55c3a.web.app) | Next.js · TypeScript · Firebase · Tailwind | 🟢 Live |
-| [VOD Stream Checker](https://github.com/FayezL/vod-stream-checker) | Python · Streamlit · SQLite · Plotly | 🟢 Live |
-| [MagicTVBox Automation Dashboard](https://github.com/FayezL/-FFmpeg-Video-Automation-Dashboard) | Python · CustomTkinter · FFmpeg | 🟢 Live |
-| [European Auto Service](https://european-auto-service.vercel.app) | Next.js · Supabase | 🟢 Live |
-| [Saint Verena Church Quiz](https://verena-church-quiz.web.app/) | Flutter · Firebase | 🟢 Live |
-| [PawPet Club](https://pawclubpetv1-b3d1b.web.app/) | Flutter · Firebase · Riverpod | 🟢 Live |
-| [Pristine by Christine](https://prinstine.web.app/) | Flutter · Firebase | 🟢 Live |
+## CareerOS
+
+A production-ready career management platform built to solve a problem I personally face during my software engineering journey.
+
+Instead of managing applications, recruiter conversations, resumes, interview notes, and career goals across multiple tools, CareerOS brings everything together in one platform.
+
+CareerOS is also my playground for learning production backend engineering using modern technologies.
+
+### Current Stack
+
+- FastAPI
+- Next.js
+- PostgreSQL
+- Docker
+- Authentication
+- Clean Architecture
+- System Design
+- AWS (coming soon)
 
 ---
 
-**Currently learning:** Docker · CI/CD · FastAPI advanced patterns
+# 🛠 Tech Stack
 
-**Open to:** Remote roles · Relocation 
+### Backend
+
+- Python
+- FastAPI
+- REST APIs
+- PostgreSQL
+- SQLite
+
+### Frontend
+
+- Next.js
+- React
+- TypeScript
+- Tailwind CSS
+
+### Mobile
+
+- Flutter
+- Firebase
+
+### Automation
+
+- Python
+- FFmpeg
+- Bash
+- Linux
+- Streamlit
+
+### Currently Learning
+
+- Docker
+- AWS
+- CI/CD
+- System Design
+- Clean Architecture
 
 ---
 
-<div align="center">
+# 📊 Engineering Highlights
 
-📧 fmamdoh504@gmail.com · [Portfolio](https://fayez-portfolio-rouge.vercel.app) · [LinkedIn](https://linkedin.com/in/fayez-mamdoh)
+✅ 2+ Years Professional Experience
 
-</div>
+✅ 8+ Production Projects
+
+✅ 200+ Real Users
+
+✅ Backend APIs
+
+✅ Automation Systems
+
+✅ Flutter Applications
+
+✅ Production Deployments
+
+---
+
+# 🌟 Featured Projects
+
+| Project | Description | Tech |
+|----------|-------------|------|
+| 🚀 CareerOS *(In Development)* | Full-stack career management platform built with modern backend architecture. | FastAPI • PostgreSQL • Docker • Next.js |
+| 🏨 CTRMS | Trip & Room Management System used by a real church community. | Next.js • PostgreSQL • Supabase |
+| 🎥 VideoForge | Production video automation platform replacing manual FFmpeg workflows. | Python • FFmpeg • CustomTkinter |
+| 📺 VOD Stream Dashboard | Stream monitoring dashboard with analytics and automation. | Python • Streamlit • Plotly |
+| 🚗 European Auto Service | Booking platform for a real automotive business. | Next.js • Supabase |
+| 🧹 Helping Hands | Cleaning company website with booking system. | Next.js • Firebase |
+| 🐾 PawPet Club | Social platform for pet owners. | Flutter • Firebase |
+| ⛪ Saint Verena Quiz | Mobile Bible quiz application. | Flutter • Firebase |
+
+---
+
+# 🎯 What I'm Working Toward
+
+I'm currently focused on becoming a stronger Software Engineer by improving my knowledge of:
+
+- Backend Engineering
+- Distributed Systems
+- Docker
+- Cloud Development
+- AWS
+- System Design
+- Clean Architecture
+- Testing
+- CI/CD
+
+My goal isn't to learn the most technologies.
+
+My goal is to build better software.
+
+---
+
+# 🌍 Open To
+
+- Software Engineer
+- Backend Engineer
+- Python Developer
+
+✔ Remote Opportunities
+
+✔ Relocation Opportunities
+
+✔ International Engineering Teams
+
+---
+
+# 📫 Let's Connect
+
+🌐 Portfolio
+
+https://fayez-portfolio-rouge.vercel.app
+
+💼 LinkedIn
+
+https://linkedin.com/in/fayez-mamdoh
+
+📧 Email
+
+fmamdoh504@gmail.com
+
+---
+
+# 💭 Philosophy
+
+> Building software that solves real problems.
+
+I believe great software isn't measured by how many frameworks it uses.
+
+It's measured by the problems it solves, the people it helps, and how well it's engineered.
+
+I'm committed to improving a little every day and building software I'm proud of.
+
+---
+
+<p align="center">
+
+⭐ Thanks for visiting my profile!
+
+If you enjoy building software, backend systems, automation, or open-source projects, let's connect.
+
+</p>
