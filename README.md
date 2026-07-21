@@ -126,7 +126,7 @@ CareerOS is also my playground for learning production backend engineering using
 | Project | Description | Tech | Status |
 |----------|-------------|------|--------|
 | 🚀 **CareerOS** *(Coming Soon)* | A production-ready career management platform I'm currently building. | FastAPI • PostgreSQL • Docker • Next.js | 🚧 In Development |
-| **[CTRMS — Trip & Room Management](https://booking-trip-system.vercel.app)** | Trip & Room Management System used by a real church community. | Next.js • TypeScript • Supabase • PostgreSQL | 🟢 Live |
+| **[CTRMS — Trip & Room Management](https://booking-trip-system-demo.vercel.app/)** | Trip & Room Management System used by a real church community. | Next.js • TypeScript • Supabase • PostgreSQL | 🟢 Live |
 | **[VideoForge — FFmpeg Video Automation Dashboard](https://github.com/FayezL/-FFmpeg-Video-Automation-Dashboard)** | Production automation platform replacing manual FFmpeg workflows with a desktop application. | Python • FFmpeg • CustomTkinter | 🟢 Open Source |
 | **[VOD Stream Checker](https://github.com/FayezL/vod-stream-checker)** | Stream monitoring dashboard with analytics and automation. | Python • Streamlit • SQLite • Plotly | 🟢 Open Source |
 | **[Helping Hands — Cleaning Platform](https://helping-hands-55c3a.web.app)** | Cleaning service platform with booking functionality. | Next.js • TypeScript • Firebase • Tailwind | 🟢 Live |
