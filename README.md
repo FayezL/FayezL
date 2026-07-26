@@ -9,13 +9,6 @@ Software Engineer building production software that solves real-world problems.
 <p align="center">
 Production Software • Backend • Full-Stack • Automation
 </p>
-
-## 🚀 Quick Snapshot
-- 💼 Software Engineer at MagicTVBox
-- 🐍 Strong in Python, FastAPI, PostgreSQL, Next.js & Flutter
-- ⚙️ Built production software, backend systems, automation tools, and business applications
-- 🌍 Open to Software Engineer, Backend Engineer, and Full-Stack Engineer opportunities
-
 <p align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -29,6 +22,14 @@ Production Software • Backend • Full-Stack • Automation
 ![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat&logo=ffmpeg&logoColor=white)
 
 </p>
+
+## 🚀 Quick Snapshot
+- 💼 Software Engineer at MagicTVBox
+- 🐍 Strong in Python, FastAPI, PostgreSQL, Next.js & Flutter
+- ⚙️ Built production software, backend systems, automation tools, and business applications
+- 🌍 Open to Software Engineer, Backend Engineer, and Full-Stack Engineer opportunities
+
+
 
 ---
 
