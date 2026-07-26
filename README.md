@@ -3,13 +3,19 @@
 <h1 align="center">Hi, I'm Fayez Mamdoh 👋</h1>
 
 <h3 align="center">
-Software Engineer
+Software Engineer building production software that solves real-world problems.
 </h3>
 
 <p align="center">
-Backend Systems • Automation • Modern Web Applications
+Production Software • Backend • Full-Stack • Automation
 </p>
-
+<p>
+## 🚀 Quick Snapshot
+- 💼 Software Engineer at MagicTVBox
+- 🐍 Strong in Python, FastAPI, PostgreSQL, Next.js & Flutter
+- ⚙️ Built production software, backend systems, automation tools, and business applications
+- 🌍 Open to Software Engineer, Backend Engineer, and Full-Stack Engineer opportunities
+  </p>
 <p align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -28,29 +34,24 @@ Backend Systems • Automation • Modern Web Applications
 
 # 👨‍💻 About Me
 
-I'm a **Software Engineer** passionate about building software that solves real-world problems.
+I'm a Software Engineer focused on building production software that solves real-world problems.
 
-Over the past few years I've built production web applications, backend APIs, Flutter applications, and automation systems used by real users and businesses.
+Over the past two years, I've built backend APIs, automation systems, web applications, mobile apps, and internal tools used by businesses and real users.
 
-I enjoy designing backend systems, automating repetitive workflows, and creating software that is reliable, maintainable, and useful.
+Currently, I work as a Software Engineer at MagicTVBox, where I develop automation tools, media processing systems, backend utilities, and internal software.
 
-Currently I work as a **Software Engineer at MagicTVBox**, where I build automation tools, media processing systems, backend utilities, and internal software.
-
-Outside work I'm continuously improving my engineering skills through real projects while learning Docker, AWS, System Design, and modern backend architecture.
-
+Outside of work, I continue improving my engineering skills by building production-ready projects and exploring modern backend architecture, cloud technologies, and scalable software design.
 ---
 
 # 🚀 Currently Building
 
 ## CareerOS
 
-A production-ready career management platform built to solve a problem I personally face during my software engineering journey.
+CareerOS is a production-ready career management platform I'm building to simplify job searching, recruiter management, application tracking, interview preparation, and career growth.
 
-Instead of managing applications, recruiter conversations, resumes, interview notes, and career goals across multiple tools, CareerOS brings everything together in one platform.
+The project serves both as a real product and an opportunity to apply modern software engineering practices while building a scalable production application.
 
-CareerOS is also my playground for learning production backend engineering using modern technologies.
-
-### Current Stack
+### Tech Stack
 
 - FastAPI
 - Next.js
@@ -58,8 +59,6 @@ CareerOS is also my playground for learning production backend engineering using
 - Docker
 - Authentication
 - Clean Architecture
-- System Design
-- AWS (coming soon)
 
 ---
 
@@ -93,29 +92,30 @@ CareerOS is also my playground for learning production backend engineering using
 - Linux
 - Streamlit
 
-### Currently Learning
+### DevOps & Tools
 
 - Docker
-- AWS
-- CI/CD
-- System Design
-- Clean Architecture
-
+- Linux
+- Git
+- FFmpeg
+- Streamlit
 ---
 
 # 📊 Engineering Highlights
 
 ✅ 2+ Years Professional Experience
 
+✅ Production Software Development
+
 ✅ 8+ Production Projects
 
 ✅ 200+ Real Users
 
-✅ Backend APIs
+✅ Backend APIs & Automation
 
-✅ Automation Systems
+✅ Full-Stack Web Applications
 
-✅ Flutter Applications
+✅ Mobile Applications
 
 ✅ Production Deployments
 
@@ -125,41 +125,24 @@ CareerOS is also my playground for learning production backend engineering using
 
 | Project | Description | Tech | Status |
 |----------|-------------|------|--------|
-| 🚀 **CareerOS** *(Coming Soon)* | A production-ready career management platform I'm currently building. | FastAPI • PostgreSQL • Docker • Next.js | 🚧 In Development |
+
 | **[CTRMS — Trip & Room Management](https://booking-trip-system-demo.vercel.app/)** | Trip & Room Management System used by a real church community. | Next.js • TypeScript • Supabase • PostgreSQL | 🟢 Live |
 | **[VideoForge — FFmpeg Video Automation Dashboard](https://github.com/FayezL/-FFmpeg-Video-Automation-Dashboard)** | Production automation platform replacing manual FFmpeg workflows with a desktop application. | Python • FFmpeg • CustomTkinter | 🟢 Open Source |
 | **[VOD Stream Checker](https://github.com/FayezL/vod-stream-checker)** | Stream monitoring dashboard with analytics and automation. | Python • Streamlit • SQLite • Plotly | 🟢 Open Source |
+| 🚀 **CareerOS** *(Coming Soon)* | A production-ready career management platform I'm currently building. | FastAPI • PostgreSQL • Docker • Next.js | 🚧 In Development |
 | **[Helping Hands — Cleaning Platform](https://helping-hands-55c3a.web.app)** | Cleaning service platform with booking functionality. | Next.js • TypeScript • Firebase • Tailwind | 🟢 Live |
 | **[European Auto Service](https://european-auto-service.vercel.app)** | Booking platform for an automotive service business. | Next.js • Supabase | 🟢 Live |
 | **[Saint Verena Church Quiz](https://verena-church-quiz.web.app/)** | Mobile Bible quiz application. | Flutter • Firebase | 🟢 Live |
 | **[PawPet Club](https://pawclubpetv1-b3d1b.web.app/)** | Social platform for pet owners. | Flutter • Firebase • Riverpod | 🟢 Live |
 | **[Pristine by Christine](https://prinstine.web.app/)** | Business website for a professional cleaning company. | Flutter • Firebase | 🟢 Live |
 
----
-
-# 🎯 What I'm Working Toward
-
-I'm currently focused on becoming a stronger Software Engineer by improving my knowledge of:
-
-- Backend Engineering
-- Distributed Systems
-- Docker
-- Cloud Development
-- AWS
-- System Design
-- Clean Architecture
-- Testing
-- CI/CD
-
-My goal isn't to learn the most technologies.
-
-My goal is to build better software.
 
 ---
 
 # 🌍 Open To
 
 - Software Engineer
+- Full-Stack Engineer
 - Backend Engineer
 - Python Developer
 
@@ -168,7 +151,6 @@ My goal is to build better software.
 ✔ Relocation Opportunities
 
 ✔ International Engineering Teams
-
 ---
 
 # 📫 Let's Connect
@@ -189,20 +171,14 @@ fmamdoh504@gmail.com
 
 # 💭 Philosophy
 
-> Building software that solves real problems.
-
-I believe great software isn't measured by how many frameworks it uses.
-
-It's measured by the problems it solves, the people it helps, and how well it's engineered.
-
-I'm committed to improving a little every day and building software I'm proud of.
+> Great software is measured by the problems it solves—not by the number of frameworks it uses.
 
 ---
 
 <p align="center">
 
-⭐ Thanks for visiting my profile!
+⭐ Thanks for visiting!
 
-If you enjoy building software, backend systems, automation, or open-source projects, let's connect.
+If you're building products, solving real problems, or hiring software engineers, I'd love to connect.
 
 </p>
