@@ -25,7 +25,7 @@ Production Software • Backend • Full-Stack • Automation
 
 ## 🚀 Quick Snapshot
 - 💼 Software Engineer at MagicTVBox
-- 🐍 Strong in Python, FastAPI, PostgreSQL, Next.js & Flutter
+- 🐍 Experienced with Python, FastAPI, PostgreSQL, Next.js & Flutter
 - ⚙️ Built production software, backend systems, automation tools, and business applications
 - 🌍 Open to Software Engineer, Backend Engineer, and Full-Stack Engineer opportunities
 
