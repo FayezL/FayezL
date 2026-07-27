@@ -128,13 +128,21 @@ The project serves both as a real product and an opportunity to apply modern sof
 |----------|-------------|------|--------|
 
 | **[CTRMS — Trip & Room Management](https://booking-trip-system-demo.vercel.app/)** | Trip & Room Management System used by a real church community. | Next.js • TypeScript • Supabase • PostgreSQL | 🟢 Live |
+
 | **[VideoForge — FFmpeg Video Automation Dashboard](https://github.com/FayezL/-FFmpeg-Video-Automation-Dashboard)** | Production automation platform replacing manual FFmpeg workflows with a desktop application. | Python • FFmpeg • CustomTkinter | 🟢 Open Source |
+
 | **[VOD Stream Checker](https://github.com/FayezL/vod-stream-checker)** | Stream monitoring dashboard with analytics and automation. | Python • Streamlit • SQLite • Plotly | 🟢 Open Source |
+
 | 🚀 **CareerOS** *(Coming Soon)* | A production-ready career management platform I'm currently building. | FastAPI • PostgreSQL • Docker • Next.js | 🚧 In Development |
+
 | **[Helping Hands — Cleaning Platform](https://helping-hands-55c3a.web.app)** | Cleaning service platform with booking functionality. | Next.js • TypeScript • Firebase • Tailwind | 🟢 Live |
+
 | **[European Auto Service](https://european-auto-service.vercel.app)** | Booking platform for an automotive service business. | Next.js • Supabase | 🟢 Live |
+
 | **[Saint Verena Church Quiz](https://verena-church-quiz.web.app/)** | Mobile Bible quiz application. | Flutter • Firebase | 🟢 Live |
+
 | **[PawPet Club](https://pawclubpetv1-b3d1b.web.app/)** | Social platform for pet owners. | Flutter • Firebase • Riverpod | 🟢 Live |
+
 | **[Pristine by Christine](https://prinstine.web.app/)** | Business website for a professional cleaning company. | Flutter • Firebase | 🟢 Live |
 
 
